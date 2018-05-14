@@ -3,8 +3,7 @@
 ## 개요
 
 이찬우님의 youtube강의를 보고 정리한 내용입니다.
-
-`https://www.youtube.com/playlist?list=PL1H8jIvbSo1qlXVcdZTH2xsYFp3e1Nmjf`
+[https://www.youtube.com/playlist?list=PL1H8jIvbSo1qlXVcdZTH2xsYFp3e1Nmjf](https://www.youtube.com/playlist?list=PL1H8jIvbSo1qlXVcdZTH2xsYFp3e1Nmjf)
 
 
 
